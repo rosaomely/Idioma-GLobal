@@ -1,0 +1,2 @@
+# Idioma-GLobal
+proyecto Db
